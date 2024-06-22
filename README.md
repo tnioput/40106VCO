@@ -8,7 +8,7 @@
 ## <span style="font-size: larger;">Tips</span>
   
 - If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
-- he height of the main board of the circuit is 115mm
+- special attention：the height of the main board of the circuit is 115mm
 
 ## <span style="font-size: larger;">Inputs</span>
 
