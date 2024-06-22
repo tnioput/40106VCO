@@ -17,16 +17,19 @@ If the triangle output waveform is not smooth, try to match R23,R24 to make them
   
 ## <span style="font-size: larger;">Outputs</span>
 
-- SIN OUT ; TRI OUT ; SAW OUT ; PULSE OUT
+- SIN OUT
+- TRI OUT
+- SAW OUT 
+- PULSE OUT
 
 ## <span style="font-size: larger;">Controls</span>
 
-- FM DEPTHS
-- FM AMOUNT
-- Frequency COARSE
-- Frequency FINE
-- PWM WIDTH
-- PWM DEPTHS
+- FM Depths
+- FM Amount
+- Frequency Coarse
+- Frequency Fine
+- PWM Width
+- PWM Depths
 
 ## <span style="font-size: larger;">Supply</span>
 
