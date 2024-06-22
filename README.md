@@ -2,6 +2,13 @@
 Moritz Klein-based vco tutorial series builds using smt
 <img src="VCO.jpg" alt="示例图片" width="900"/>
 
+## <span style="font-size: larger;">尺寸</span>
+
+- **高度：** 3U
+- **宽度：** 8HP
+- **深度：** 25 mm
+
+
 Check out the demonstration video:https://www.youtube.com/embed/QiLeUSpJTN0
 
 If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
