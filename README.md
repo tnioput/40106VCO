@@ -5,10 +5,10 @@
 
 <img src="VCO.jpg" alt="示例图片" width="900"/>
 
-## <span style="font-size: larger;">Consider</span>
+## <span style="font-size: larger;">Tips</span>
   
 - If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
-- tip: The height of the main board of the circuit is 115mm
+- he height of the main board of the circuit is 115mm
 
 ## <span style="font-size: larger;">Inputs</span>
 
@@ -32,7 +32,7 @@
 - PWM Width
 - PWM Depths
 
-## <span style="font-size: larger;">Supply</span>
+## <span style="font-size: larger;">Power</span>
 
 - +12 VDC @ 15 mA
 - -12 VDC @ 20 mA roughly
@@ -43,9 +43,9 @@
 - Width: 8HP
 - Depth: 25 mm
 
-## <span style="font-size: larger;">YouTube videos</span>
+## <span style="font-size: larger;">YouTube </span>
 
-- [Demonstrations](https://www.youtube.com/watch?v=QiLeUSpJTN0&t)
+- [Presentation](https://www.youtube.com/watch?v=QiLeUSpJTN0&t)
 
 ## License
 This PCB layout is made available under a cc-by-sa-3.0 license.
