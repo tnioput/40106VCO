@@ -1,13 +1,14 @@
 # 40106VCO
-Moritz Klein-based vco tutorial series builds using smt
-The circuit board is drawn using easyEDA, while the smt uses the JLC base library.
+- Moritz Klein-based vco tutorial series builds using smt
 
+- The boards are drawn with easyEDA and the smt uses the JLC base library.
 
 <img src="VCO.jpg" alt="示例图片" width="900"/>
 
 ## <span style="font-size: larger;">Consider</span>
   
-If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
+- If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
+- tip: The height of the main board of the circuit is 115mm
 
 ## <span style="font-size: larger;">Inputs</span>
 
