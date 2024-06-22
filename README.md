@@ -35,7 +35,7 @@
 ## <span style="font-size: larger;">Power</span>
 
 - +12 VDC @ 15 mA
-- -12 VDC @ 20 mA roughly
+- -12 VDC @ 15 mA
   
 ## <span style="font-size: larger;">Dimensions</span>
 
