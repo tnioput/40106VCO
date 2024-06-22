@@ -10,10 +10,19 @@ Moritz Klein-based vco tutorial series builds using smt
 
 - SIN OUT ; TRI OUT ; SAW OUT ; PULSE OUT
 
+# <span style="font-size: larger;">Controls</span>
+
+- FM DEPTHS
+- FM AMOUNT
+- Frequency COARSE
+- Frequency FINE
+- PWM WIDTH
+- PWM DEPTHS
+
 # <span style="font-size: larger;">Supply</span>
 
-- +12 VDC @ 25 mA
-- -12 VDC @ 20 mA
+- +12 VDC @ 15 mA
+- -12 VDC @ 20 mA roughly
   
 # <span style="font-size: larger;">Dimensions</span>
 
@@ -23,7 +32,7 @@ Moritz Klein-based vco tutorial series builds using smt
 
 # <span style="font-size: larger;">YouTube videos</span>
 
-- [Link to YouTube video](https://www.youtube.com/watch?v=QiLeUSpJTN0&t)
+- [Demonstrations](https://www.youtube.com/watch?v=QiLeUSpJTN0&t)
   
 If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
 
