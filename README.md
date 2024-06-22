@@ -5,6 +5,10 @@ The circuit board is drawn using easyEDA, while the smt uses the JLC base librar
 
 <img src="VCO.jpg" alt="示例图片" width="900"/>
 
+## <span style="font-size: larger;">Consider</span>
+  
+If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
+
 ## <span style="font-size: larger;">Inputs</span>
 
 - PWM IN
@@ -39,10 +43,6 @@ The circuit board is drawn using easyEDA, while the smt uses the JLC base librar
 
 - [Demonstrations](https://www.youtube.com/watch?v=QiLeUSpJTN0&t)
 
-## <span style="font-size: larger;">Consider</span>
-  
-If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
-
-
+## License
 This PCB layout is made available under a cc-by-sa-3.0 license.
 
