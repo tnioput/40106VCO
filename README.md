@@ -1,15 +1,9 @@
 # 40106VCO
 Moritz Klein-based vco tutorial series builds using smt
 <img src="VCO.jpg" alt="示例图片" width="900"/>
-<img src="backside.jpg" alt="示例图片" width="600" style="transform: rotate(90deg);"/>
-
-https://www.youtube.com/watch?v=QiLeUSpJTN0
-## Demonstration Video
+<img src="backside.jpg" alt="示例图片" width="300" style="transform: rotate(90deg);"/>
 
 Watch my [demonstration video](https://www.example.com/demo)
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/your_video_id](https://www.youtube.com/watch?v=QiLeUSpJTN0
-)" frameborder="0" allowfullscreen></iframe>
-
 
 If the triangle output waveform is not smooth, try to match R23,R24 to make them as consistent as possible.
 
