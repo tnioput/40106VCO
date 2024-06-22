@@ -1,7 +1,7 @@
 # 40106VCO
-- Moritz Klein-based vco tutorial series builds using smt
+- Moritz Klein-based vco tutorial series builds using SMT
 
-- The boards are drawn with easyEDA and the smt uses the JLC base library.
+- The PCB are drawn with easyEDA and uses the JLC base library.
 
 <img src="VCO.jpg" alt="示例图片" width="900"/>
 
